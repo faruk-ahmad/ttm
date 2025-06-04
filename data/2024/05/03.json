@@ -1,0 +1,25 @@
+{
+  "events": [
+    {
+      "title": "GPT-5 Released",
+      "description": "OpenAI launches GPT-5, latest language model.",
+      "tags": ["AI", "NLP"],
+      "time": "14:00",
+      "source": "https://openai.com/gpt-5"
+    },
+    {
+      "title": "GPT-5 Released",
+      "description": "OpenAI launches GPT-5, latest language model.",
+      "tags": ["AI", "NLP"],
+      "time": "13:00",
+      "source": "https://openai.com/gpt-5"
+    },
+    {
+      "title": "GPT-5 Released",
+      "description": "OpenAI launches GPT-5, latest language model.",
+      "tags": ["AI", "NLP"],
+      "time": "12:00",
+      "source": "https://openai.com/gpt-5"
+    }
+  ]
+}
