@@ -1,25 +1,11 @@
 {
   "events": [
     {
-      "title": "GPT-5 Released",
-      "description": "OpenAI launches GPT-5, latest language model.",
-      "tags": ["AI", "NLP"],
-      "time": "14:00",
-      "source": "https://openai.com/gpt-5"
-    },
-    {
-      "title": "GPT-5 Released",
-      "description": "OpenAI launches GPT-5, latest language model.",
-      "tags": ["AI", "NLP"],
-      "time": "13:00",
-      "source": "https://openai.com/gpt-5"
-    },
-    {
-      "title": "GPT-5 Released",
-      "description": "OpenAI launches GPT-5, latest language model.",
-      "tags": ["AI", "NLP"],
-      "time": "12:00",
-      "source": "https://openai.com/gpt-5"
+      "title": "Will AI wipe out the first rung of the career ladder?",
+      "description": "Generative artificial intelligence may eliminate the job you got with your diploma still in hand, say executives who offered grim assessments of the entry-level job market last week in multiple forums.",
+      "tags": ["AI", "NLP", "Jobs"],
+      "time": "14:21",
+      "source": "https://www.theguardian.com/global/2025/jun/02/artificial-intelligence-jobs-techscape"
     }
   ]
 }
